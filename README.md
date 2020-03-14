@@ -1,4 +1,4 @@
-<b>What is FeelBot?
+<b>What is FeelBot?</b>
 
 FeelBot is a collective of internet-connected robots that all feel the same thing at the same time. FeelBot can feel happy, sad, anxious, angry...
 Some FeelBots have faces that move, some are based on led displays and others show their emotions through their body language. Some dance, some sing and some sit quietly and just listen.
