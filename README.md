@@ -9,6 +9,7 @@ Every FeelBot connects to the internet and regulates its feelings based on a cen
 The server speaks MQTT – a machine-to-machine publish/subscribe messaging transport protocol. It is light weight, open, simple, and designed so as to be easy to implement.
 A Raspberry Pi uses Node-Red to listen to Twitter, and picks out any Tweets containing the hashtag #FeelBot, and forwards any of the emotions FeelBot can feel to the MQTT broker.
 Tweet an emotion to #FeelBot, and FeelBots all over the world will react in sympathy.
+
 “I feel a bit sad, #FeelBot”
 
 FeelBot and mental health
