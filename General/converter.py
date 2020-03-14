@@ -1,3 +1,5 @@
+# Snippet of code to convert .pbm (portable bitmap format) to .bin files by stripping out headers
+
 file_name=input("Filename (no extension):")
 print("Converting ",file_name,".pbm to ",file_name,".bin")
 
