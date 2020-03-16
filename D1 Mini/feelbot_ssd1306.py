@@ -1,6 +1,6 @@
 # Code to run in MicroPython on a Wemos D1 mini with OLED shield
 
-from secrets_london import secrets
+from secrets import secrets
 
 import network
 from umqtt.simple import MQTTClient
