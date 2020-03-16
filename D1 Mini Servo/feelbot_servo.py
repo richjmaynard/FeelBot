@@ -1,7 +1,7 @@
 
 # Code to run in MicroPython on a Wemos D1 mini with servo on pin D5
 
-from secrets_furneux import secrets
+from secrets import secrets
 
 import time
 from machine import Pin, PWM
