@@ -6,17 +6,18 @@ In addition, the following emotions will be published:
 
 confused, mellow, sleepy, wired, hopeful
 
+
 FeelBots should listen to this MQTT broker:
 
-Broker    node02.myqtthub.com
+Broker: node02.myqtthub.com
 
-Port      1883
+Port: 1883
 
-ClientID  FeelBot
+ClientID: FeelBot
 
-user      feelbot
+user: feelbot
 
-password  feelbot
+password: feelbot
 
 
 Payloads will be 'happy', 'sad', etc
